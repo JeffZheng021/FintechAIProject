@@ -1,0 +1,12 @@
+flask
+langchain
+openai
+pandas
+numpy
+requests
+streamlit
+scikit-learn
+matplotlib
+plotly
+yfinance
+sqlalchemy
